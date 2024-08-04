@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Fotografía clínica: ¿Qué papel cumple una buena fotografía oral en el control de los renders?",
+    "answerOptions": [
+      { "answerText": "Fundamental", "isCorrect": true },
+      { "answerText": "Importante", "isCorrect": false },
+      { "answerText": "Irrelevante", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "CBCT (protocolo KS): Elije cual es el valor más destacado de CBCT sobre las radiografías tradicionales en ortodoncia.",
+    "answerOptions": [
+      { "answerText": "Requiere menos Radiación", "isCorrect": false },
+      { "answerText": "Ofrece más Precisión", "isCorrect": false },
+      { "answerText": "Ofrece una imagen tridimensional volumétrica", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "Escaneo oral: ¿Cómo ha cambiado el escaneo oral la práctica ortodóntica?",
+    "answerOptions": [
+      { "answerText": "Precisión", "isCorrect": false },
+      { "answerText": "Comodidad", "isCorrect": false },
+      { "answerText": "Tiempo sillón", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "MacroSecuencia: Elija sólo una de las siguientes premisas como propia de la Macrosecuencia:",
+    "answerOptions": [
+      { "answerText": "Rotación de pieza dental 33", "isCorrect": false },
+      { "answerText": "Expansión con torque del sector posterior bilateral", "isCorrect": true },
+      { "answerText": "Tip corono distal de pieza dental 13", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "Microsecuencia: Elija sólo una de las siguientes premisa como propia de la Microsecuencia:",
+    "answerOptions": [
+      { "answerText": "Distalización del cuadrante 2", "isCorrect": false },
+      { "answerText": "Extrusión absoluta de pieza dentaria 11", "isCorrect": true },
+      { "answerText": "Centrado de líneas medias", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "Rotación (2 tipos): ¿Si no desea vestibulizar el canino inferior rotado a mesial qué técnica de rotación elegiría?",
+    "answerOptions": [
+      { "answerText": "Rotación en su propio eje", "isCorrect": true },
+      { "answerText": "Rotación en bisagra distal", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "Expansión (2 tipos): ¿En un caso de 1er molar con hueso desfavorable por vestibular, que tipo de expansión efectuaría?",
+    "answerOptions": [
+      { "answerText": "Expansión con torque positivo", "isCorrect": true },
+      { "answerText": "Expansión en masa", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "Stripping: ¿Qué cuidado posterior a stripping es necesario para prevenir caries?",
+    "answerOptions": [
+      { "answerText": "Pulir bien con grano fino", "isCorrect": false },
+      { "answerText": "Chequear la cantidad de mm degastados", "isCorrect": false },
+      { "answerText": "Colocar Flúor", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Attachments: ¿Cuáles son las ventajas de utilizar attachments en ortodoncia con alineadores?",
+    "answerOptions": [
+      { "answerText": "Aumentar el anclaje", "isCorrect": false },
+      { "answerText": "Aumentar la retención", "isCorrect": false },
+      { "answerText": "Dar precisión al movimiento", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  },
+
+  {
+    "id": 10,
+    "pregunta": "Barras de presión: ¿Cómo influyen las barras de presión en el movimiento dentario durante el tratamiento ortodóntico con alineadores?",
+    "answerOptions": [
+      { "answerText": "Reforzar el movimiento de la pieza dentaria impreso en el alineador", "isCorrect": true },
+      { "answerText": "Impedir el movimiento del diente ", "isCorrect": false },
+      { "answerText": "Lograr un movimiento más controlado de la raíz dentaria.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "CBCT (protocolo KS): Elije cual es el valor más destacado de CBCT sobre las radiografías tradicionales en ortodoncia.",
+    "answerOptions": [
+      { "answerText": "Requiere menos Radiación", "isCorrect": false },
+      { "answerText": "Ofrece más Precisión", "isCorrect": false },
+      { "answerText": "Ofrece una imagen tridimensional volumétrica", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "Escaneo oral: ¿Cómo ha cambiado el escaneo oral la práctica ortodóntica?",
+    "answerOptions": [
+      { "answerText": "Precisión", "isCorrect": false },
+      { "answerText": "Comodidad", "isCorrect": false },
+      { "answerText": "Tiempo sillón", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "MacroSecuencia: Elija sólo una de las siguientes premisas como propia de la Macrosecuencia:",
+    "answerOptions": [
+      { "answerText": "Rotación de pieza dental 33", "isCorrect": false },
+      { "answerText": "Expansión con torque del sector posterior bilateral", "isCorrect": true },
+      { "answerText": "Tip corono distal de pieza dental 13", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "Microsecuencia: Elija sólo una de las siguientes premisa como propia de la Microsecuencia:",
+    "answerOptions": [
+      { "answerText": "Distalización del cuadrante 2", "isCorrect": false },
+      { "answerText": "Extrusión absoluta de pieza dentaria 11", "isCorrect": true },
+      { "answerText": "Centrado de líneas medias", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "Rotación (2 tipos): ¿Si no desea vestibulizar el canino inferior rotado a mesial qué técnica de rotación elegiría?",
+    "answerOptions": [
+      { "answerText": "Rotación en su propio eje", "isCorrect": true },
+      { "answerText": "Rotación en bisagra distal", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "Expansión (2 tipos): ¿En un caso de 1er molar con hueso desfavorable por vestibular, que tipo de expansión efectuaría?",
+    "answerOptions": [
+      { "answerText": "Expansión con torque positivo", "isCorrect": true },
+      { "answerText": "Expansión en masa", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "Stripping: ¿Qué cuidado posterior a stripping es necesario para prevenir caries?",
+    "answerOptions": [
+      { "answerText": "Pulir bien con grano fino", "isCorrect": false },
+      { "answerText": "Chequear la cantidad de mm degastados", "isCorrect": false },
+      { "answerText": "Colocar Flúor", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Attachments: ¿Cuáles son las ventajas de utilizar attachments en ortodoncia con alineadores?",
+    "answerOptions": [
+      { "answerText": "Aumentar el anclaje", "isCorrect": false },
+      { "answerText": "Aumentar la retención", "isCorrect": false },
+      { "answerText": "Dar precisión al movimiento", "isCorrect": false },
+      { "answerText": "Todas son correctas", "isCorrect": true }
+    ]
+  }
+
+]

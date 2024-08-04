@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Em que década a cor laranja passou a fazer parte da identidade visual do Itaú?",
+    "answerOptions": [
+      { "answerText": "Década de 1990", "isCorrect": false },
+      { "answerText": "Anos 2000", "isCorrect": false },
+      { "answerText": "Década de 1980", "isCorrect": true },
+      { "answerText": "Década de 1970", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "pregunta": "Quem desenhou a marca Itaú?",
+    "answerOptions": [
+      { "answerText": "Aloisio Magalhães", "isCorrect": false },
+      { "answerText": "Alexandre Wollner", "isCorrect": true },
+      { "answerText": "Herb Lubalin", "isCorrect": false },
+      { "answerText": "Paul Rand", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "pregunta": "O que motivou o surgimento do UX design?",
+    "answerOptions": [
+      { "answerText": "A preocupação das empresas em oferecer aos usuários formas mais simples e agradáveis de navegação em sites e aplicativos", "isCorrect": true },
+      { "answerText": "A necessidade de reduzir custos com a propaganda digital", "isCorrect": false },
+      { "answerText": "O desenvolvimento das linguagens de programação em marketplaces virtuais  ", "isCorrect": false },
+      { "answerText": "O advento da Internet", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "pregunta": "Em que período o “i” digital apareceu na marca Itaú?",
+    "answerOptions": [
+      { "answerText": "1999-2000", "isCorrect": true },
+      { "answerText": "2010-2011", "isCorrect": false },
+      { "answerText": "2004-2005", "isCorrect": false },
+      { "answerText": "2016-2017", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "pregunta": "O fundador da escola Bauhaus, em 1919, foi:",
+    "answerOptions": [
+      { "answerText": "Le Corbusier", "isCorrect": false },
+      { "answerText": "Walter Gropius", "isCorrect": true },
+      { "answerText": "Frank Loyd Wright", "isCorrect": false },
+      { "answerText": "Mies van der Rohe", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 6,
+    "pregunta": "O design com estética psicodélica ganhou mais destaque em qual década?",
+    "answerOptions": [
+      { "answerText": "1980", "isCorrect": false },
+      { "answerText": "1960", "isCorrect": false },
+      { "answerText": "1970", "isCorrect": true },
+      { "answerText": "1950", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 7,
+    "pregunta": "O que é “Arquitetura da Informação” no UX design?",
+    "answerOptions": [
+      { "answerText": "É a combinação de frases e palavras no desenvolvimento de um site, aplicativo ou outra plataforma digital", "isCorrect": false },
+      { "answerText": "É a forma como as informações são estruturadas no menu de um site", "isCorrect": false },
+      { "answerText": "É a disposição dos links nas diferentes páginas de um site ou plataforma digital", "isCorrect": false },
+      { "answerText": "É a estruturação de um layout para um site, aplicativo ou outra plataforma digital", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 8,
+    "pregunta": "Em que ano as letras do logotipo do Itaú passaram a ser amarelas?",
+    "answerOptions": [
+      { "answerText": "1990", "isCorrect": false },
+      { "answerText": "1992", "isCorrect": true },
+      { "answerText": "1988", "isCorrect": false },
+      { "answerText": "2005", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 9,
+    "pregunta": "Quem foi Aloisio Magalhães:",
+    "answerOptions": [
+      { "answerText": "O designer gráfico responsável pelo desenho da marca Itaú", "isCorrect": false },
+      { "answerText": "O criador da metodologia Árvore de oportunidades", "isCorrect": false },
+      { "answerText": "Criador da primeira escola de design no Brasil", "isCorrect": true },
+      { "answerText": "O pai do design thinking", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 10,
+    "pregunta": "Alfons M. Mucha, pintor, designer e ilustrador do movimento Art Nouveau, nasceu em qual país?",
+    "answerOptions": [
+      { "answerText": "República Tcheca", "isCorrect": true },
+      { "answerText": "Brasil", "isCorrect": false },
+      { "answerText": "Espanha", "isCorrect": false },
+      { "answerText": "França", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 11,
+    "pregunta": "Qual a primeira empresa do mundo a criar uma identidade de marca corporativa?",
+    "answerOptions": [
+      { "answerText": "A alemã AEG, em 1907", "isCorrect": true },
+      { "answerText": "A britânica Unilever, em 1935", "isCorrect": false },
+      { "answerText": "A japonesa Sony, em 1950", "isCorrect": false },
+      { "answerText": "A americana General Electric, em 1900", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 12,
+    "pregunta": "O design da marca Itaú, nas décadas de 70 e 80, era preto e branco. Por quê?",
+    "answerOptions": [
+      { "answerText": "Porque o material gráfico em preto e branco era mais econômico", "isCorrect": false },
+      { "answerText": "Porque a palavra “Itaú”, em tupi-guarani, significa “pedra preta”", "isCorrect": true },
+      { "answerText": "Porque o banco tinha um perfil mais sóbrio", "isCorrect": false },
+      { "answerText": "orque a palavra “Itaú”, em dialeto galego, significa “pássaro negro”", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Qual o homem considerado, por muitos, o primeiro designer da história? ",
+    "answerOptions": [
+      { "answerText": "David Ogilvy", "isCorrect": false },
+      { "answerText": "Walter Gropius", "isCorrect": false },
+      { "answerText": "Saul Bass", "isCorrect": false },
+      { "answerText": "Peter Behrens", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "A evolução do design da marca Itaú, ao longo dos 100 anos do banco, tem considerado, principalmente: ",
+    "answerOptions": [
+      { "answerText": "A tecnologia", "isCorrect": false },
+      { "answerText": "O custo", "isCorrect": false },
+      { "answerText": "As pessoas", "isCorrect": true },
+      { "answerText": "O negócio", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Qual dos nomes abaixo pertence à Escola de Glasgow, do final do século XIX?",
+    "answerOptions": [
+      { "answerText": "Charles Rennie MackIntosh", "isCorrect": true },
+      { "answerText": "Koloman Moser", "isCorrect": false },
+      { "answerText": "Henry van der Velde", "isCorrect": false },
+      { "answerText": "Jan Tschhihold", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "Um dos motes da cultura ituber é:",
+    "answerOptions": [
+      { "answerText": "Cada um é guiado por suas próprias necessidades", "isCorrect": false },
+      { "answerText": "A gente vai aos poucos", "isCorrect": false },
+      { "answerText": "A cultura interna é o mais importante", "isCorrect": false },
+      { "answerText": "A gente vai de turma", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 17,
+    "pregunta": "Para os itubers, ética é:",
+    "answerOptions": [
+      { "answerText": "inegociável", "isCorrect": true },
+      { "answerText": "só um detalhe", "isCorrect": false },
+      { "answerText": "possível", "isCorrect": false },
+      { "answerText": "opcional", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 18,
+    "pregunta": "Qual das afirmações abaixo corresponde à atitude ituber?",
+    "answerOptions": [
+      { "answerText": "A gente precisa saber tudo", "isCorrect": false },
+      { "answerText": "A gente não sabe tudo", "isCorrect": true },
+      { "answerText": "A gente sabe tudo", "isCorrect": false },
+      { "answerText": "A gente se satisfaz com o que sabe", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 19,
+    "pregunta": "De acordo com a cultura ituber, a inovação precisa considerar primeiramente as necessidades:  ",
+    "answerOptions": [
+      { "answerText": "da gestão", "isCorrect": false },
+      { "answerText": "da sociedade", "isCorrect": false },
+      { "answerText": "dos clientes", "isCorrect": true },
+      { "answerText": "dos colaboradores", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 20,
+    "pregunta": "Qual das afirmações abaixo NÃO CORRESPONDE à cultura ituber?",
+    "answerOptions": [
+      { "answerText": "Ser Ituber é focar em um perfil específico de cliente", "isCorrect": true },
+      { "answerText": "Ser Ituber é testar, errar, aprender e melhorar", "isCorrect": false },
+      { "answerText": "Ser Ituber é estar aberto para diferentes pontos de vista", "isCorrect": false },
+      { "answerText": "Ser Ituber é ser ambicioso nos objetivos e eficiente na execução", "isCorrect": false }
+    ]
+  }
+]

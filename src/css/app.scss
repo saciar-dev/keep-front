@@ -1,0 +1,48 @@
+// app global css in SCSS form
+@font-face {
+  font-family: itauRg;
+  src: url(../fonts/Raleway-Regular.ttf);
+}
+.itau-font-rg {
+  font-family: 'itauRg';
+}
+
+@font-face {
+  font-family: itauBlack;
+  src: url(../fonts/Raleway-Medium.ttf);
+}
+.itau-font-blk {
+  font-family: 'itauBlack';
+}
+
+@font-face {
+  font-family: itauBold;
+  src: url(../fonts/Raleway-SemiBold.ttf);
+}
+.itau-font-bd {
+  font-family: 'itauBold';
+}
+
+.bg-portugues {
+  background: #001c57;
+}
+
+.bg-espanol{
+  background: #f2f2f2;
+}
+
+.bg-footer{
+  background: #f2f2f2 ;
+}
+
+.text-portugues {
+  color: #f2f2f2;
+}
+
+.text-espanol{
+  color: #001c57;
+}
+
+.text-titulos{
+  color: #636054;
+}
