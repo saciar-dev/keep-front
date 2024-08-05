@@ -93,75 +93,506 @@
   },
   {
     "id": 11,
-    "pregunta": "CBCT (protocolo KS): Elije cual es el valor más destacado de CBCT sobre las radiografías tradicionales en ortodoncia.",
+    "pregunta": "Gomas inter e intramaxilares: ¿Usaría  Gomas intermaxilares en un caso de Clase II,  y si así fuera en que piezas solicitaría cortes de los alineadores?",
     "answerOptions": [
-      { "answerText": "Requiere menos Radiación", "isCorrect": false },
-      { "answerText": "Ofrece más Precisión", "isCorrect": false },
-      { "answerText": "Ofrece una imagen tridimensional volumétrica", "isCorrect": true }
+      { "answerText": "Caninos inferiores y molares superiores", "isCorrect": false },
+      { "answerText": "Caninos superiores y molares inferiores", "isCorrect": true },
+      { "answerText": "Caninos inferiores y caninos superiores", "isCorrect": false }
     ]
   },
   {
     "id": 12,
-    "pregunta": "Escaneo oral: ¿Cómo ha cambiado el escaneo oral la práctica ortodóntica?",
+    "pregunta": "Power arms: ¿Cuáles son las aplicaciones más comunes de los power arms en ortodoncia con alineadores?",
     "answerOptions": [
-      { "answerText": "Precisión", "isCorrect": false },
-      { "answerText": "Comodidad", "isCorrect": false },
-      { "answerText": "Tiempo sillón", "isCorrect": false },
+      { "answerText": "Mejorar el movimiento de determinada pieza", "isCorrect": false },
+      { "answerText": "Impedir el movimiento de determinada pieza", "isCorrect": false },
+      { "answerText": "Lograr el movimiento en masa de determinada pieza", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 13,
+    "pregunta": "Microtornillos: ¿Cuál sería la indicación más clara de estos tres casos de ortodoncia con alineadores para el uso de microtornillos?",
+    "answerOptions": [
+      { "answerText": "Distalización", "isCorrect": false },
+      { "answerText": "Proinclinación", "isCorrect": false },
+      { "answerText": "Canteo del plano oclusal superior", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 14,
+    "pregunta": "Corticotomía: ¿Cuál es la principal intención al realizar corticotomía?",
+    "answerOptions": [
+      { "answerText": "Mejorar el hueso subyacente", "isCorrect": false },
+      { "answerText": "Aprovechar el fenómeno de aceleración regional del movimiento dentario", "isCorrect": true },
+      { "answerText": "Ninguna de las anteriores", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 15,
+    "pregunta": "Dientes o Barras en espacios de exodoncia: ¿Si necesita controlar mejor el espacio en un caso con extracciones que dispositivo transitorio elegiría para los alineadores luego de la exodoncia?",
+    "answerOptions": [
+      { "answerText": "Barra", "isCorrect": true },
+      { "answerText": "Diente postizo", "isCorrect": false },
+      { "answerText": "Ninguna es correcta", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 16,
+    "pregunta": "Pantallas intraorales: ¿Qué beneficios aportan las pantallas intraorales en educación del paciente durante el tratamiento ortodóntico?",
+    "answerOptions": [
+      { "answerText": "Favorece la propiocepción", "isCorrect": false },
+      { "answerText": "Impiden la interposición lingual", "isCorrect": false },
+      { "answerText": "Favorecen el cierre de la mordida abierta lateral", "isCorrect": false },
       { "answerText": "Todas son correctas", "isCorrect": true }
     ]
   },
   {
-    "id": 4,
-    "pregunta": "MacroSecuencia: Elija sólo una de las siguientes premisas como propia de la Macrosecuencia:",
+    "id": 17,
+    "pregunta": "G-Force: ¿Cuál de estos resultados clínicos no corresponde al uso de GForce?",
     "answerOptions": [
-      { "answerText": "Rotación de pieza dental 33", "isCorrect": false },
-      { "answerText": "Expansión con torque del sector posterior bilateral", "isCorrect": true },
-      { "answerText": "Tip corono distal de pieza dental 13", "isCorrect": false }
+      { "answerText": "Ofrece una barrera a la lengua", "isCorrect": false },
+      { "answerText": "Reeduca la postura lingual ", "isCorrect": false },
+      { "answerText": "Produce proinclinación dentaria", "isCorrect": true }
     ]
   },
   {
-    "id": 5,
-    "pregunta": "Microsecuencia: Elija sólo una de las siguientes premisa como propia de la Microsecuencia:",
+    "id": 18,
+    "pregunta": "KAM: ¿Cómo se debe realizar el escaneo oral en niños para KAM?",
     "answerOptions": [
-      { "answerText": "Distalización del cuadrante 2", "isCorrect": false },
-      { "answerText": "Extrusión absoluta de pieza dentaria 11", "isCorrect": true },
-      { "answerText": "Centrado de líneas medias", "isCorrect": false }
+      { "answerText": "Igual que en cualquier caso", "isCorrect": false },
+      { "answerText": "Con mordida constructiva", "isCorrect": true },
+      { "answerText": "Con mordida en oclusión céntrica", "isCorrect": false }
     ]
   },
   {
-    "id": 6,
-    "pregunta": "Rotación (2 tipos): ¿Si no desea vestibulizar el canino inferior rotado a mesial qué técnica de rotación elegiría?",
+    "id": 19,
+    "pregunta": "Overlays: ¿Cuáles son las indicaciones más comunes para trabajar con overlays en ortodóncia con alineadores?",
     "answerOptions": [
-      { "answerText": "Rotación en su propio eje", "isCorrect": true },
-      { "answerText": "Rotación en bisagra distal", "isCorrect": false }
+      { "answerText": "Casos Rehabilitación", "isCorrect": false },
+      { "answerText": "Casos con patología de ATM", "isCorrect": false },
+      { "answerText": "Ambas son correctas", "isCorrect": true }
     ]
   },
   {
-    "id": 7,
-    "pregunta": "Expansión (2 tipos): ¿En un caso de 1er molar con hueso desfavorable por vestibular, que tipo de expansión efectuaría?",
+    "id": 20,
+    "pregunta": "Púas: ¿Cómo se utilizan más eficientemente las púas reeducadoras linguales en ortodoncia con alineadores?",
     "answerOptions": [
-      { "answerText": "Expansión con torque positivo", "isCorrect": true },
-      { "answerText": "Expansión en masa", "isCorrect": false }
+      { "answerText": "Cementadas a los dientes", "isCorrect": false },
+      { "answerText": "Diseñadas y ejecutadas en los alineadores", "isCorrect": true },
+      { "answerText": "Pegadas al alineadores", "isCorrect": false }
     ]
   },
   {
-    "id": 8,
-    "pregunta": "Stripping: ¿Qué cuidado posterior a stripping es necesario para prevenir caries?",
+    "id": 21,
+    "pregunta": "Levantes de mordida: ¿Cuáles son los motivos para realizar levantes de mordida?",
     "answerOptions": [
-      { "answerText": "Pulir bien con grano fino", "isCorrect": false },
-      { "answerText": "Chequear la cantidad de mm degastados", "isCorrect": false },
-      { "answerText": "Colocar Flúor", "isCorrect": false },
-      { "answerText": "Todas son correctas", "isCorrect": true }
+      { "answerText": "Tratar casos con excesiva sobremordida", "isCorrect": false },
+      { "answerText": "Que no se produzcan colisiones en determinado movimiento dentario necesario", "isCorrect": false },
+      { "answerText": "Ninguna de las anteriores.", "isCorrect": false },
+      { "answerText": "Las dos primeras son correctas", "isCorrect": true }
     ]
   },
   {
-    "id": 9,
-    "pregunta": "Attachments: ¿Cuáles son las ventajas de utilizar attachments en ortodoncia con alineadores?",
+    "id": 22,
+    "pregunta": "¿Qué estudios son necesarios para ingresar un caso?",
     "answerOptions": [
-      { "answerText": "Aumentar el anclaje", "isCorrect": false },
-      { "answerText": "Aumentar la retención", "isCorrect": false },
-      { "answerText": "Dar precisión al movimiento", "isCorrect": false },
-      { "answerText": "Todas son correctas", "isCorrect": true }
+      { "answerText": "Rx panoramica", "isCorrect": false },
+      { "answerText": "Rx periapical", "isCorrect": false },
+      { "answerText": "Rx panoramica, Teleradiografia y estudios cefalometricos", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Si el tratamiento es Full, Cuántas veces se escanea el paciente?",
+    "answerOptions": [
+      { "answerText": "una vez", "isCorrect": false },
+      { "answerText": "dos veces", "isCorrect": false },
+      { "answerText": "tres veces", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Se pueden usar alineadores en pacientes con bruxismo?",
+    "answerOptions": [
+      { "answerText": "Si", "isCorrect": true },
+      { "answerText": "No", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Se puede usar alineadores aunque falten piezas dentarias?",
+    "answerOptions": [
+      { "answerText": "Si", "isCorrect": true },
+      { "answerText": "No", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Cuántas horas se usan los alineadores al día?",
+    "answerOptions": [
+      { "answerText": "10 hs", "isCorrect": false },
+      { "answerText": "22 hs", "isCorrect": true },
+      { "answerText": "24 hs", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Se puede hacer deporte con los alineadores?",
+    "answerOptions": [
+      { "answerText": "Si", "isCorrect": true },
+      { "answerText": "No", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Se puede hacer alineadores con implantes en boca?",
+    "answerOptions": [
+      { "answerText": "Si", "isCorrect": true },
+      { "answerText": "No", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Cómo higienizo los alineadores?",
+    "answerOptions": [
+      { "answerText": "Con cepillo y pasta dental", "isCorrect": false },
+      { "answerText": "Con tabletas efervescentes", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 30,
+    "pregunta": "Se rompió un ataché en pieza 16 y quiero recolocarlo en el momento, el paciente está usando placa 8. Cual alineador uso como matriz de ataché?",
+    "answerOptions": [
+      { "answerText": "Alineador sup número 7", "isCorrect": true },
+      { "answerText": "Alineador sup número 9", "isCorrect": false },
+      { "answerText": "Matriz original de ataché en pieza 16", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 31,
+    "pregunta": "Entre piezas 31/32 y 31/41 existe una colisión proximal de 0.2mm. ¿Qué procedimiento se debe realizar?",
+    "answerOptions": [
+      { "answerText": "Remodelado dental", "isCorrect": false },
+      { "answerText": "Stripping", "isCorrect": false },
+      { "answerText": "Liberación de puntos de contacto sin contar con plantilla de stripping", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 32,
+    "pregunta": "Después de usar el último alineador del tratamiento existe un espacio residual menor de 1mm entre 11/21. ¿Cómo solucionarlo?",
+    "answerOptions": [
+      { "answerText": "Colocar placa de contención", "isCorrect": false },
+      { "answerText": "Hacer etapa adicional", "isCorrect": false },
+      { "answerText": "Solicitar placa de primera reducción", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Qué rango de edad cubre un tratamiento TEENS?",
+    "answerOptions": [
+      { "answerText": "11 A 13 años", "isCorrect": false },
+      { "answerText": "13 A 15 años", "isCorrect": false },
+      { "answerText": "13 A 17 años", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 34,
+    "pregunta": "Si mi pacientes con dentición mixta, ¿Qué tratamiento le corresponde?",
+    "answerOptions": [
+      { "answerText": "KeepSmiling Kids", "isCorrect": true },
+      { "answerText": "KeepSmiling Teens", "isCorrect": false },
+      { "answerText": "KeepSmiling", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 35,
+    "pregunta": "Cuantas lineas de corte ofrece KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "Solo 1", "isCorrect": false },
+      { "answerText": "Solo 2", "isCorrect": false },
+      { "answerText": "3 (Festeoneado,combinado y recto)", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 36,
+    "pregunta": "¿En qué año se fundó KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "2007", "isCorrect": false },
+      { "answerText": "2008", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 37,
+    "pregunta": "En cuantos paises se encuentra la empresa KeepSmiling presente",
+    "answerOptions": [
+      { "answerText": "En 5", "isCorrect": false },
+      { "answerText": "En 7", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Cuál fue el primer país en que desembarco KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "Chile", "isCorrect": false },
+      { "answerText": "Uruguay", "isCorrect": true }
+    ]
+  },
+
+  {
+    "id": 39,
+    "pregunta": "¿Cuántos acreditados tiene KeepSmiling en sus 7 países?",
+    "answerOptions": [
+      { "answerText": "+ de 4000", "isCorrect": false },
+      { "answerText": "+ de 7000", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Desde que año KeepSmiling esta certificado por las normas ISO?",
+    "answerOptions": [
+      { "answerText": "2023", "isCorrect": false },
+      { "answerText": "2022", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Cuántos acreditados hay solo en Argentina?",
+    "answerOptions": [
+      { "answerText": "3567", "isCorrect": false },
+      { "answerText": "4324", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Cómo se llama nuestra Fundadora?",
+    "answerOptions": [
+      { "answerText": "Gabriela La Valle", "isCorrect": true },
+      { "answerText": "Gabriela Lasalle", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Cómo se llama nuestro CEO?",
+    "answerOptions": [
+      { "answerText": "Facundo Basilico", "isCorrect": true },
+      { "answerText": "Fernando Basilico", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué pais fue el último en sumarse a la familia KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "México", "isCorrect": true },
+      { "answerText": "Colombia", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Cuándo es el próximo SUMMIT de KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "24 de Octubre", "isCorrect": false },
+      { "answerText": "8 de Noviembre", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Cómo se llama la cumbre en ortodoncia en alineadores de KeepSmiling?",
+    "answerOptions": [
+      { "answerText": "Summit", "isCorrect": true },
+      { "answerText": "Update KeepSmiling", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 47,
+    "pregunta": "KeepSmiling tiene un Blog con notas actuales con las últimas innovaciones",
+    "answerOptions": [
+      { "answerText": "Verdadero", "isCorrect": true },
+      { "answerText": "False", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 48,
+    "pregunta": "KeepSmiling Teens tiene una mascota: ¿Cuál es su nombre?",
+    "answerOptions": [
+      { "answerText": "Alinadorate", "isCorrect": false },
+      { "answerText": "Smily", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 49,
+    "pregunta": "Cuál es la forma correcta de escribir KS",
+    "answerOptions": [
+      { "answerText": "Kepsmiling", "isCorrect": false },
+      { "answerText": "KeepSmiling", "isCorrect": true },
+      { "answerText": "Keep Smiling", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Cómo se llama nuestra cuenta de instagram dedicada para Ortodoncistas?",
+    "answerOptions": [
+      { "answerText": "@area_odontólogos", "isCorrect": false },
+      { "answerText": "@keep_ortodoncistas", "isCorrect": false },
+      { "answerText": "@keepsmiling_ortodoncistas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Se puede tomar mate con Alineadores?",
+    "answerOptions": [
+      { "answerText": "Siempre (con la temperatura de agua indicada para mate)", "isCorrect": false },
+      { "answerText": "Nunca", "isCorrect": false },
+      { "answerText": "A veces", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Cuántas personas de KeepSmiling están involucradas para generar un caso?",
+    "answerOptions": [
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "4", "isCorrect": false },
+      { "answerText": "15", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 53,
+    "pregunta": "Si una pieza está rotada a más de 45°… ",
+    "answerOptions": [
+      { "answerText": "Es conveniente complementar con una cupla.", "isCorrect": true },
+      { "answerText": "Consigo la rotación con attachments", "isCorrect": false },
+      { "answerText": "Ninguna es correcta", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 54,
+    "pregunta": "En casos donde quiero corregir la clase canina: ",
+    "answerOptions": [
+      { "answerText": "Corrijo solo con attachment (siempre que el caso lo permita)", "isCorrect": false },
+      { "answerText": "Debo utilizar gomas de clase y pedir recortes en el alineador.", "isCorrect": false },
+      { "answerText": "Ambas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 55,
+    "pregunta": "Para verticalizar un molar con más de 10 grados de inclinación:",
+    "answerOptions": [
+      { "answerText": "Solo con attachment es suficiente.", "isCorrect": false },
+      { "answerText": "Debo usar un microimplante.", "isCorrect": true },
+      { "answerText": "Debo usar gomas. ", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué es el Stripping con remodelado?",
+    "answerOptions": [
+      { "answerText": "Stripping con rotatorio que se indica previo al primer alineador.", "isCorrect": true },
+      { "answerText": "Stripping que se realiza en cualquier momento de la etapa.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 57,
+    "pregunta": "¿El Stripping se realiza desde el primer movimiento?",
+    "answerOptions": [
+      { "answerText": "Se realiza al final. ", "isCorrect": false },
+      { "answerText": "Si, apenas instalo", "isCorrect": false },
+      { "answerText": "Depende del caso, generalmente desde el alineador número dos.", "isCorrect": true },
+      { "answerText": "En el cambio de etapas.", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Qué elementos se pueden utilizar para realizar Stripping?",
+    "answerOptions": [
+      { "answerText": "Gomas de pulir", "isCorrect": false },
+      { "answerText": "Fresas", "isCorrect": false },
+      { "answerText": "Limas y discos", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Cuántas cuentas de Instagram tiene KeepSmiling en total?",
+    "answerOptions": [
+      { "answerText": "2", "isCorrect": false },
+      { "answerText": "5", "isCorrect": false },
+      { "answerText": "8", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Cuántos Summit de KeepSmiling hubo?",
+    "answerOptions": [
+      { "answerText": "1", "isCorrect": true },
+      { "answerText": "3", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Cuántos seguidores tiene la cuenta keepsmiling_arg?",
+    "answerOptions": [
+      { "answerText": "+ 70.000", "isCorrect": false },
+      { "answerText": "Casi 100.000", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Hace cuántos años KeepSmiling llegó a Colombia?",
+    "answerOptions": [
+      { "answerText": "6", "isCorrect": true },
+      { "answerText": "2", "isCorrect": false },
+      { "answerText": "5", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 63,
+    "pregunta": "Si el tratamiento es full ¿Cuántas veces me tengo que escanear?",
+    "answerOptions": [
+      { "answerText": "1", "isCorrect": false },
+      { "answerText": "2", "isCorrect": false },
+      { "answerText": "Hasta 3 etapas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Desde cuándo se lanzó el tratamiento medium?",
+    "answerOptions": [
+      { "answerText": "Hace 6 años", "isCorrect": false },
+      { "answerText": "Hace 4 años", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Qué estudios son necesarios para ingresar un caso?",
+    "answerOptions": [
+      { "answerText": "Panorámica, teleradiografia de perfil y estudios cefalometricos", "isCorrect": false },
+      { "answerText": "Fotos intra y extra", "isCorrect": false },
+      { "answerText": "Ambas son correctas", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 66,
+    "pregunta": "Los attachments para la distalización debe estar sí o sí en: ",
+    "answerOptions": [
+      { "answerText": "En el 7,6 Y 3 del sector a distalizar", "isCorrect": true },
+      { "answerText": "En el 6 y en el 7", "isCorrect": false },
+      { "answerText": "Solo en 3", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Qué es necesario para evaluar si m i caso es viable?",
+    "answerOptions": [
+      { "answerText": "Fotos intraorales y estudios de ser necesarios  y objetivos de tratamiento.", "isCorrect": true },
+      { "answerText": "Fotos solamente", "isCorrect": false },
+      { "answerText": "Objetivos de tratamiento. ", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Cuando debo retirar los attachments?",
+    "answerOptions": [
+      { "answerText": "Al final de cada etapa previo al escaneo", "isCorrect": true },
+      { "answerText": "No es necesario retirarlos. Cuando yo desee los retiro.", "isCorrect": false },
+      { "answerText": "Solamente al final del tratamiento. ", "isCorrect": false }
     ]
   }
 
