@@ -1,13 +1,13 @@
 <template>
   <div class="bg-2">
   <q-page class="flex flex-center column animate__animated animate__fadeIn">
-    <q-page-sticky position="top-right" :offset="[100, 0]">
+    <q-page-sticky position="top-right" :offset="[100, -50]">
         <!-- <img
           alt="Itau logo"
           src="~assets/logo-teens.png"
           style="width: 350px; "
         > -->
-        <MyCarrousel tamanio="width:300px"></MyCarrousel>
+        <MyCarrousel tamanio="width:250px"></MyCarrousel>
       </q-page-sticky>
 
     <q-page-sticky position="bottom-left" :offset="[28, 24]">
@@ -132,7 +132,7 @@ import MyCarrousel from 'src/components/MyCarrousel.vue';
 
   const handleBack = () =>{
     onReset();
-    router.push('/lang')
+    router.push('/')
   }
 
   const onReset = () => {

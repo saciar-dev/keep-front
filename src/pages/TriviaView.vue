@@ -78,19 +78,19 @@
         <img
           alt="Itau logo"
           src="~assets/logo-kids.png"
-          style="width: 200px; "
+          style="width: 150px; "
           @click="init"
         >
       </q-page-sticky>
-      <q-page-sticky position="bottom-left" :offset="[250, 100]">
+      <q-page-sticky position="bottom-left" :offset="[200, 100]">
         <img
           alt="Itau logo"
           src="~assets/logo-teens.png"
-          style="width: 200px; "
+          style="width: 150px; "
           @click="init"
         >
       </q-page-sticky>
-  <q-page-sticky position="top-left" :offset="[150, 100]" v-if="!showAnwserResult">
+  <q-page-sticky position="top-left" :offset="[100, 100]" v-if="!showAnwserResult">
         <img
           alt="Itau logo"
           src="~assets/logo-blanco-ks.svg"

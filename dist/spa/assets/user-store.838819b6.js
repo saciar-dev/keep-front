@@ -1,1 +1,0 @@
-import{au as s,r as a}from"./index.5fb0a323.js";const i=s("usuarios",()=>{const e=a({nombre:"",telephone:"",email:"",aceptar:!1});return{usuario:e,setUsuario:r=>{e.value={...r}},resetUsuario:()=>e.value={nombre:"",telephone:"",email:"",aceptar:!1}}});export{i as u};
