@@ -42,7 +42,8 @@
         style="font-size: 1.5rem;"
         color="espanol"
         v-model="telephone"
-        :label="$t('telephone')"
+        type="email"
+        :label="$t('email')"
         lazy-rules
         @input="onTelephoneChange"
         @focus="showNameKeyboard=false; showTelephoneKeyboard=true"
@@ -94,7 +95,18 @@ import MyCarrousel from 'src/components/MyCarrousel.vue';
   const onSubmit = () => {
 
     if(name.value != null && telephone.value !=null && accept.value){
-      checkUser();
+      //checkUser();
+      setUsuario({
+          nombre:name.value,
+          telephone:telephone.value,
+          aceptar:accept.value
+        });
+        localStorage.setItem('user', JSON.stringify({
+          nombre:name.value,
+          telephone:telephone.value,
+          aceptar:accept.value
+        }));
+        router.push('/initGame')
     }
     else if(!accept.value){
       Notify.create(t('errorDisclaimer'))
