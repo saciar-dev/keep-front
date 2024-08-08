@@ -38,6 +38,7 @@
 
       <q-input
         filled
+
         bg-color="white"
         style="font-size: 1.5rem;"
         color="espanol"
